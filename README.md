@@ -6,7 +6,7 @@
 
 <div>
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=anaclaramcarvalho&theme=tokyonight&show_icons=true" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclaramcarvalho&layout=compact&langs_count=16&theme=github_dark" />
+  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclaramcarvalho&layout=compact&langs_count=16&theme=github_dark" />
 </div>  
 
 ## Linguagens
