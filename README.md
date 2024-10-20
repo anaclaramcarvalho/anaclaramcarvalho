@@ -1,7 +1,7 @@
 ### Oii, eu sou a Ana Clara...
 
 * Faço Ciência da computação na Universidade Federal de Uberlândia (UFU)
-* Atualmente estou aprendendo C e python
+* Atualmente estou aprendendo C, python e R
 * :)
 
 <div>
