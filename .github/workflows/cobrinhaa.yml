@@ -1,4 +1,4 @@
-name: Snake Game
+name: Glitter Snake
 
 on:
   workflow_dispatch:
@@ -16,11 +16,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: anaclaramcarvalho
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#ff00ff&color_dots=#1a1b27,#6e40c9,#00eaff,#ff66ff,#ffffff
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: dist
+          publish_branch: output
