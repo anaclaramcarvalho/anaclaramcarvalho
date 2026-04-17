@@ -24,4 +24,8 @@
    <a align="center"  href = "mailto:anaclaram290@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
 
-![Snake animation](https://github.com/anaclaramcarvalho/anaclaramcarvalho/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![snake gif](https://github.com/anaclaramcarvalho/anaclaramcarvalho/blob/output/github-contribution-grid-snake.svg)
+
+</div>
